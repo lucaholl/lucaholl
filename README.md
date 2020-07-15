@@ -1,5 +1,5 @@
 ### Luca Holland
-[![email](https://img.shields.io/static/v1?label=lucahollandemail@googlemail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:lucahollandemail@googlemail.com)
+[![email](https://img.shields.io/static/v1?label=email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:lucahollandemail@googlemail.com)
 
 - 🌱 I’m currently learning Python, Javascript(inc React + Node), C
 
