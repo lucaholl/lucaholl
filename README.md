@@ -1,4 +1,11 @@
-### Hi there 👋
+### Luca Holland
+
+- 🌱 I’m currently learning Python, Javascript(inc React + Node), C
+
+- 🔭 I’m currently working on ...
+
+- 📫 How to reach me: lucahollandemail@googlemail.com
+
 
 <!--
 **lucaholl/lucaholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
