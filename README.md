@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on:
   - [A Choose Your Own Adventure (using React and JS)](lucaholl/chooseyourown)
+  - [Collection of algorithms written in Python (to teach myself Python and algorithms)](lucaholl/Algorithm-practice)
   - [A tool to generate a gpx file from a random recent Strava activity](lucaholl/GenerateGPXFromStrava)
 
 - 📫 How to reach me: lucahollandemail@googlemail.com
