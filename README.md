@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Python, Javascript (inc React), C
 
 - 🔭 I’m currently working on:
-  - [A Choose Your Own Adventure (using React and JS)](/chooseyourown)
-  - [Collection of algorithms written in Python (to teach myself Python and algorithms)](lucaholl/Algorithm-practice)
-  - [A tool to generate a gpx file from a random recent Strava activity](lucaholl/GenerateGPXFromStrava)
+  - [A Choose Your Own Adventure (using React and JS)](../../../chooseyourown)
+  - [Collection of algorithms written in Python (to teach myself Python and algorithms)](../../../Algorithm-practice)
+  - [A tool to generate a gpx file from a random recent Strava activity](../../../GenerateGPXFromStrava)
 
 - 📫 How to reach me: lucahollandemail@googlemail.com
 
