@@ -1,14 +1,7 @@
 ### Luca Holland
-<!-- [![email](https://img.shields.io/static/v1?label=email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:lucahollandemail@googlemail.com) -->
 
-- 🌱 I’m currently learning Python, Javascript (inc React), C
-
-- 🔭 I’m currently working on:
-  - [A Choose Your Own Adventure (using React and JS)](../../../chooseyourown)
-  - [Collection of algorithms written in Python (to teach myself Python and algorithms)](../../../Algorithm-practice)
-  - [A tool to generate a gpx file from a random recent Strava activity](../../../GenerateGPXFromStrava)
-
-- 📫 How to reach me: lucahollandemail@googlemail.com
+- 🌱 Javascript, PHP, HTML, CSS
+- 📫 lucahollandemail@googlemail.com
 
 
 <!--
