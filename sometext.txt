@@ -1,6 +1,4 @@
 /* Some text */
 ....
 
-Error on this line <----
-
 Keep this line <----
